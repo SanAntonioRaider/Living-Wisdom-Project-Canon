@@ -46,4 +46,24 @@ The people are not.
 ## Official Project Domains
 
 - https://thelivingwisdomproject.com  
-- https://livingwisdomproject.com  
+- https://livingwisdomproject.com
+
+---
+
+## 🔐 Canonical SHA-256 Verification Block
+
+These cryptographic hashes permanently verify the integrity of the original public-domain canonical releases as of **9 December 2025**. Any alteration to the files will result in a different hash.
+
+```text
+Living-Wisdom-Project_v1.0_Canonical-Specification_9-December-2025.pdf
+SHA-256:
+f03a0d285ea44b7c88a91702fc3c6b27cb97f363e8567bd1dccd018394
+
+Living-Wisdom-Project_Cover-Letter_9-December-2025.pdf
+SHA-256:
+64b8b1aa55d4558456b76578435ff7173fbd08c0f5f008a1c5364b0f0b54b96
+
+Living-Wisdom-Project_PUBLIC-README_9-December-2025.pdf
+SHA-256:
+8144822b6ed38f224d4a7064fae95acea739e2f1fd16d9df975
+
